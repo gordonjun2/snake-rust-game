@@ -1,0 +1,12 @@
+{
+  "name": "snake_rust_game_redo",
+  "version": "0.1.0",
+  "files": [
+    "snake_rust_game_redo_bg.wasm",
+    "snake_rust_game_redo.js",
+    "snake_rust_game_redo.d.ts"
+  ],
+  "module": "snake_rust_game_redo.js",
+  "types": "snake_rust_game_redo.d.ts",
+  "sideEffects": false
+}
