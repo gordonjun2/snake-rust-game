@@ -8,5 +8,9 @@
   ],
   "module": "snake_rust_game_redo.js",
   "types": "snake_rust_game_redo.d.ts",
-  "sideEffects": false
+  "sideEffects": false,
+  "dependencies": {
+    "express": "^4.18.2",
+    "compression": "^1.7.4"
+  }
 }
