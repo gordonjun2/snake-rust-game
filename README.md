@@ -25,8 +25,17 @@ git clone https://github.com/Jerga99/snake-rust-game.git
 ./run_build.sh
 ```
 
+- Use the command below to start the development server
+```
+npm start
+```
+
 - To play, type the URL below in the browser
 ```
 localhost:3000
 ```
+
+## Note
+- Unable to play the game in GitHub Page of this repository using files in `./docs`
+- Should deploy to Heroku instead
 
